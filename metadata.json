@@ -1,0 +1,6 @@
+{
+  "name": "T-R-C-E-I Prompt Studio & Visual Design Hub",
+  "description": "Panduan lengkap prinsip T-R-C-E-I untuk prompting AI, generator prompt interaktif, dan pustaka prompt photo-editing untuk desain grafis serta komunikasi pemasaran (Marcomm).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
